@@ -1,2 +1,4 @@
 # DSCI 100 Project Individual Planning
-Template project repository for DSCI-100
+This is the individual planning of DSCI 100 project of Alana that contains:
+    players.csv data set
+    A Jupyter notebook
